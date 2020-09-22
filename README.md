@@ -1,3 +1,6 @@
+https://next.reality.news/news/googles-ai-solution-for-hand-finger-tracking-could-be-huge-for-smartglasses-0203914/
+https://google.github.io/mediapipe/solutions/hands
+
 ---
 layout: default
 title: Home
